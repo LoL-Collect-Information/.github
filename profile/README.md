@@ -1,12 +1,20 @@
-## Hi there 👋
+## ろるこれ！
+League of Legendsに関わる情報提供や便利機能を配信するサービスです
 
-<!--
+### 関連リンク
+- [discord](https://discord.gg/49VRuEhkza)
+- [twitter](https://twitter.com/LoLcollectInfo)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 開発者関連リンク
+
+- for all
+  - project board: https://github.com/orgs/LoL-Collect-Information/projects/1
+
+- discord
+  - developer site: https://discord.com/developers/applications
+  - docs: https://discord.js.org/#/docs/discord.js/main/general/welcome  
+
+- riot games
+  - developer site: https://developer.riotgames.com/
+  - discord server: https://discord.gg/riotgamesdevrel
