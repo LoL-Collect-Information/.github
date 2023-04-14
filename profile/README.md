@@ -1,5 +1,7 @@
 ## ろるこれ！
-League of Legendsに関わる情報提供や便利機能を配信するサービスです
+League of Legendsに関わる情報提供や便利機能をDiscordで配信するサービスです
+
+[![add_button](https://user-images.githubusercontent.com/68623073/232087163-80fa126d-3a6b-44de-96f8-29fe835dc0a3.png)](https://discord.com/api/oauth2/authorize?client_id=1095672312193372243&permissions=448824363072&scope=bot)
 
 ### 関連リンク
 - [discord](https://discord.gg/49VRuEhkza)
@@ -17,4 +19,4 @@ League of Legendsに関わる情報提供や便利機能を配信するサービ
 
 - riot games
   - developer site: https://developer.riotgames.com/
-  - discord server: https://discord.gg/riotgamesdevrel
+  - discord: https://discord.gg/riotgamesdevrel
