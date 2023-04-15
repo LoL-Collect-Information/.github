@@ -1,18 +1,15 @@
-## ろるこれ！
+# ろるこれ！ - LoL Collect Informations
 League of Legendsに関わる情報提供や便利機能をDiscordで配信するサービスです
 
-[![add_button](https://user-images.githubusercontent.com/68623073/232087163-80fa126d-3a6b-44de-96f8-29fe835dc0a3.png)](https://discord.com/api/oauth2/authorize?client_id=1095672312193372243&permissions=448824363072&scope=bot)
+[![add_lolcollect_bot](https://user-images.githubusercontent.com/68623073/232087163-80fa126d-3a6b-44de-96f8-29fe835dc0a3.png)](https://discord.com/api/oauth2/authorize?client_id=1095672312193372243&permissions=448824363072&scope=bot)
 
 ### 関連リンク
-- [discord](https://discord.gg/49VRuEhkza)
-- [twitter](https://twitter.com/LoLcollectInfo)
-
+[![discord_lolcollect](https://user-images.githubusercontent.com/68623073/232219065-c73ab5d2-e4e2-49f4-a0a4-d7806fa4d507.png)](https://discord.gg/49VRuEhkza) [![twitter_lolcollect](https://user-images.githubusercontent.com/68623073/232219061-bd202842-1700-4bd0-9173-2a75548e96a3.png)](https://twitter.com/LoLcollectInfo)
 
 ### 開発者関連リンク
+[![project_board](https://user-images.githubusercontent.com/68623073/232227991-00f14a08-7d97-415b-a5f8-b11b4b231cff.png)](https://github.com/orgs/LoL-Collect-Information/projects/1)
 
-- for all
-  - project board: https://github.com/orgs/LoL-Collect-Information/projects/1
-
+### 開発リファレンス 
 - discord
   - developer site: https://discord.com/developers/applications
   - docs: https://discord.js.org/#/docs/discord.js/main/general/welcome  
