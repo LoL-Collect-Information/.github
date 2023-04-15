@@ -17,3 +17,7 @@ League of Legendsに関わる情報提供や便利機能をDiscordで配信す�
 - riot games
   - developer site: https://developer.riotgames.com/
   - discord: https://discord.gg/riotgamesdevrel
+
+### IMAGE CREDITS
+- LoL Collect Information
+- <a href="https://jp.freepik.com/free-vector/cute-robot-holding-clipboard-cartoon-vector-icon-illustration-science-technology-icon-isolated_28158023.htm">著作者：catalyststuff</a>／出典：Freepik
