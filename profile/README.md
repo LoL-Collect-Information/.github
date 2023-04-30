@@ -9,8 +9,8 @@ League of Legendsに関わる情報提供や便利機能をDiscordで配信す�
 ### 開発者関連リンク
 [![project_board](https://user-images.githubusercontent.com/68623073/232227991-00f14a08-7d97-415b-a5f8-b11b4b231cff.png)](https://github.com/orgs/LoL-Collect-Information/projects/1)
 
-### 後悔データリンク
-[google spread sheet - クリップガチャデータ集](https://docs.google.com/spreadsheets/d/1PkRnyGiy6jyYZAXbaaRvbo7fyo7sgJqDo1D8kY9mOYs/edit?usp=sharing)
+### 公開データリンク
+- [google spread sheet - クリップガチャデータ集](https://docs.google.com/spreadsheets/d/1PkRnyGiy6jyYZAXbaaRvbo7fyo7sgJqDo1D8kY9mOYs/edit?usp=sharing)
 
 ### 開発リファレンス 
 - discord
