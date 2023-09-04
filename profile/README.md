@@ -7,7 +7,6 @@ League of Legendsに関わる情報提供や便利機能をDiscordで配信す�
 [![discord_lolcollect](https://user-images.githubusercontent.com/68623073/232219065-c73ab5d2-e4e2-49f4-a0a4-d7806fa4d507.png)](https://discord.gg/49VRuEhkza) [![twitter_lolcollect](https://user-images.githubusercontent.com/68623073/232219061-bd202842-1700-4bd0-9173-2a75548e96a3.png)](https://twitter.com/LoLcollectInfo)
 
 ### 開発者関連リンク
-[![project_board](https://user-images.githubusercontent.com/68623073/232227991-00f14a08-7d97-415b-a5f8-b11b4b231cff.png)](https://github.com/orgs/LoL-Collect-Information/projects/1)
 
 ### 公開データリンク
 - [google spread sheet - クリップガチャデータ集](https://docs.google.com/spreadsheets/d/1PkRnyGiy6jyYZAXbaaRvbo7fyo7sgJqDo1D8kY9mOYs/edit?usp=sharing)
